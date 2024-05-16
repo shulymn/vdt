@@ -15,28 +15,28 @@
             "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FAEBFF"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
             "#FFFFFF"
         ],
         "TEXT_LINK": [
-            "#E69CFF"
+            "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
             "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#DF7FFF"
+            "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#000000"
+            "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-           "#000000"
+            "#000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#120C13"
@@ -81,7 +81,7 @@
             "#FFFFFF"
         ],
         "TEXT_DANGER": [
-            "#FC0E61"
+            "#FFFFFF"
         ],
         "KEYBOARD": [
             "#000000"
@@ -108,11 +108,11 @@
         "BRAND_260": "#FFFFFF",
         "BRAND_360": "#FFFFFF",
         "BRAND_500": "#FFFFFF",
-        "BRAND_560": "#F0C4FF",
-        "WHITE_500": "#F0C4FF",
-        "YELLOW_300": "#B569E0",
-        "GREEN_360": "#B569E0",
-        "RED_400": "#FC0E61"
+        "BRAND_560": "#FFFFFF",
+        "WHITE_500": "#FFFFFF",
+        "YELLOW_300": "#FFFFFF",
+        "GREEN_360": "#FFFFFF",
+        "RED_400": "#FFFFFF"
     },
     "spec": 2
 }
