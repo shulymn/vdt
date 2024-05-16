@@ -18,7 +18,7 @@
             "#FAEBFF"
         ],
         "TEXT_MUTED": [
-            "#6C4878"
+            "#FFFFFF"
         ],
         "TEXT_LINK": [
             "#E69CFF"
@@ -30,7 +30,7 @@
             "#DF7FFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#6C4878"
+            "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
