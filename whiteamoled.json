@@ -9,19 +9,19 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "TEXT_LINK": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
             "#FFFFFF"
