@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#000000"
+            "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#000000"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
             "#FFFFFF"
@@ -78,16 +78,16 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "TEXT_DANGER": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "KEYBOARD": [
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
