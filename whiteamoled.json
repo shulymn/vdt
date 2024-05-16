@@ -9,28 +9,28 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "HEADER_SECONDARY": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "TEXT_NORMAL": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "TEXT_MUTED": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "TEXT_LINK": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "INTERACTIVE_MUTED": [
-            "#ff0000"
+            "#FFFFFF"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -78,16 +78,16 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "TEXT_DANGER": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "KEYBOARD": [
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
