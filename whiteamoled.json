@@ -24,13 +24,13 @@
             "#FFFFFF"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "INTERACTIVE_MUTED": [
-            "#FFFFFF"
+            "#FF0000"
         ],
         "BACKGROUND_PRIMARY": [
             "#000000"
@@ -78,16 +78,16 @@
             "#A4A4A4"
         ],
         "CHANNELS_DEFAULT": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "TEXT_DANGER": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "KEYBOARD": [
             "#000000"
         ],
         "CHANNEL_ICON": [
-            "#FF0000"
+            "#FFFFFF"
         ],
         "CHAT_BACKGROUND": [
             "#000000"
